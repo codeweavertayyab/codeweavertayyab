@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✔️ About Me:
 🔭 I’m currently working on next.js<br>👯 I’m looking to collaborate on github and instagram.<br>🤝 I’m looking for help with php & laravel.<br>🌱 I’m currently learning php & laravel<br>💬 Ask me about anything<br>⚡ Opportunities don't happen. You create them.
 
 
